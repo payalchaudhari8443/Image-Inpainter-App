@@ -22,4 +22,4 @@ This application allows users to inpaint images with realistic details using Ope
 ## Usage
 Run the application using:
 ```bash
-python app.py
+python code.py
